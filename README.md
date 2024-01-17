@@ -1,1 +1,1 @@
-# Blogs
+# Blogs by using HTML and CSS
